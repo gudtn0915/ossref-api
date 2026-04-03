@@ -1,4 +1,4 @@
-package site.gpglab.ossrefapi;
+package com.gpglab.ossrefapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
